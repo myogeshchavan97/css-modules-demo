@@ -1,0 +1,12 @@
+.title {
+  color: maroon;
+  text-transform: uppercase;
+}
+
+.subtitle {
+  color: red;
+}
+
+.align-center {
+  text-align: center;
+}
